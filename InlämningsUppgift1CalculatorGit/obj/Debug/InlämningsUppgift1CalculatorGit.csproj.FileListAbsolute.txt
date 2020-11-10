@@ -1,0 +1,7 @@
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\bin\Debug\InlämningsUppgift1CalculatorGit.exe.config
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\bin\Debug\InlämningsUppgift1CalculatorGit.exe
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\bin\Debug\InlämningsUppgift1CalculatorGit.pdb
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\obj\Debug\InlämningsUppgift1CalculatorGit.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\obj\Debug\InlämningsUppgift1CalculatorGit.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\obj\Debug\InlämningsUppgift1CalculatorGit.exe
+C:\Users\Oliver\source\repos\InlämningsUppgift1CalculatorGit\InlämningsUppgift1CalculatorGit\obj\Debug\InlämningsUppgift1CalculatorGit.pdb
